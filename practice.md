@@ -11,4 +11,5 @@ permalink: /practice/
 Home exercises:
   1. [Madelbrot](../static_files/Practices/mandelbrot.pdf)
   2. [Kepler](../static_files/Practices/kepler.pdf)
-  3. [SPH](../static_files/Practices/sph.pdf)
+  3. [Tree](../static_files/Practices/tree.pdf)
+  4. [SPH](../static_files/Practices/sph.pdf)
